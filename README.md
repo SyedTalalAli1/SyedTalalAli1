@@ -1,13 +1,13 @@
-<p align=""><b>Hi 👋, I'm Syed Talal Ali</b></p>
+<p align=""><b>Syed Talal Ali</b></p>
 <p align=""><b>Full Stack Developer</b></p>
 
 
 
-- 🌱 I’m currently learning **Web Development**
-- 💻 Passionate about **Developing Web Apps**.
-- 📫 How to reach me **syedtalalali2@gmail.com**
+-  Currently learning **Web Development**
+-  Passionate about **Developing Web Apps**.
+-  How to reach me **syedtalalali2@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahamsultana" alt="mahamsultana" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedTalalAli1" alt="mahamsultana" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/syedtalalali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/mahamsultana/](https://www.linkedin.com/in/syedtalalali/)" height="30" width="40" /></a>
